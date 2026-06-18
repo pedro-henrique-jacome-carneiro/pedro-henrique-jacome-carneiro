@@ -1,15 +1,15 @@
-# Olá, eu sou Pedro Henrique 👋
+# Hi, I'm Pedro Henrique 👋
 
-🎓 Estudante de Engenharia de Software
+🎓 Software Engineering Undergraduate
 
-💼 Analista de TI com experiência em:
+💼 IT Analyst with experience in:
 
-- Suporte Técnico
-- Infraestrutura
-- Gestão de Ativos
-- Automação de Processos
+- Technical Support
+- Infrastructure
+- Asset Management
+- Process Automation
 
-🚀 Tecnologias
+🚀 Technologies
 
 - Java
 - Spring Boot
@@ -19,7 +19,7 @@
 - CSS
 - JavaScript
 
-📌 Projetos
+📌 Projects
 
 - SorrIA
 - SorrIA Landing Page
