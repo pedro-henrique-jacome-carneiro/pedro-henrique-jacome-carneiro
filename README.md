@@ -1,16 +1,25 @@
-## Hi there 👋
+# Olá, eu sou Pedro Henrique 👋
 
-<!--
-**pedro-henrique-jacome-carneiro/pedro-henrique-jacome-carneiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Engenharia de Software
 
-Here are some ideas to get you started:
+💼 Analista de TI com experiência em:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Suporte Técnico
+- Infraestrutura
+- Gestão de Ativos
+- Automação de Processos
+
+🚀 Tecnologias
+
+- Java
+- Spring Boot
+- PostgreSQL
+- TypeScript
+- HTML
+- CSS
+- JavaScript
+
+📌 Projetos
+
+- SorrIA
+- SorrIA Landing Page
