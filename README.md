@@ -12,6 +12,7 @@
 🚀 Technologies
 
 - Java
+- Python
 - Spring Boot
 - PostgreSQL
 - TypeScript
