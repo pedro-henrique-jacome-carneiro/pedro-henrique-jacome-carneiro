@@ -77,15 +77,6 @@ It includes authentication, user-specific data isolation, family permissions, in
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=pedro-henrique-jacome-carneiro&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-henrique-jacome-carneiro&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## 🎯 Current Focus
 
 > _Building real projects, improving my back-end skills, and growing from IT support into software development._
@@ -93,3 +84,4 @@ It includes authentication, user-specific data isolation, family permissions, in
 ---
 
 ⭐ Feel free to explore my repositories and follow my progress.
+
