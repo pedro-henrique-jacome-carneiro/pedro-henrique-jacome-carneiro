@@ -1,6 +1,6 @@
 # Hi 👋, I'm Pedro Henrique Jácome Carneiro
 
-🚀 **IT Analyst | Junior Back-end Developer | Python/Flask**  
+🚀 **IT Analyst | Junior Back-end Developer**  
 🇧🇷 Brazil
 
 I work with **technical support, IT infrastructure, and web development**, bringing together hands-on corporate IT experience and a growing focus on software engineering.
