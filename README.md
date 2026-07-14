@@ -5,7 +5,7 @@
 
 I work with **technical support, IT infrastructure, and web development**, bringing together hands-on corporate IT experience and a growing focus on software engineering.
 
-I'm currently building projects with **Python, Flask, SQLAlchemy, PostgreSQL/Supabase, Java, Spring Boot, React, and TypeScript**, with a focus on clean code, authentication, database modeling, automated testing, and practical business workflows.
+I'm currently building projects with **Python, PostgreSQL/Supabase, Java, Spring Boot, React, and TypeScript**, with a focus on clean code, authentication, database modeling, automated testing, and practical business workflows.
 
 ---
 
@@ -40,8 +40,6 @@ I'm currently building projects with **Python, Flask, SQLAlchemy, PostgreSQL/Sup
 ### Back-end
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
@@ -53,7 +51,6 @@ I'm currently building projects with **Python, Flask, SQLAlchemy, PostgreSQL/Sup
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Jinja2](https://img.shields.io/badge/Jinja2-B41717?style=for-the-badge&logo=jinja&logoColor=white)
 
 ### Database, Testing & Tools
 
